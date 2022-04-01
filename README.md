@@ -1,3 +1,3 @@
-# exercise2
+# Isogram
 project file + test
 https://exercism.org/tracks/scala/exercises/isogram
